@@ -40,31 +40,6 @@ Each vehicle type has its own detail page with completed/cancelled/incomplete ri
 
 ---
 
-## 📊 Key Metrics & Insights
-
-| Metric | Value |
-|---|---|
-| Total Completed Bookings | 93K |
-| Total Lost Bookings | 57K |
-| Total Revenue | ₹52M |
-| Total Distance Travelled | 3M km |
-| Average Distance per Ride | 24.64 km |
-| Average Customer Rating | 4.40 ⭐ |
-| Average Driver Rating | 4.23 ⭐ |
-| Top Payment Method | UPI (37K transactions) |
-
-**Vehicle-wise Revenue Contribution:**
-| Vehicle | Revenue |
-|---|---|
-| Auto | ₹13M |
-| Bike | ₹11M |
-| Go Mini | ₹10M |
-| Go Sedan | ₹9M |
-| Premier Sedan | ₹6M |
-| Uber XL | ₹2M |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Power BI Desktop** – Data modeling, DAX measures, and report design
