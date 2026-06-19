@@ -70,5 +70,3 @@ Each vehicle type has its own detail page with completed/cancelled/incomplete ri
 - **Power BI Desktop** – Data modeling, DAX measures, and report design
 - **Power Query** – Data cleaning and transformation
 - **DAX** – Calculated columns/measures for KPIs (completed %, revenue contribution, ratings, etc.)
-
----
