@@ -1,4 +1,4 @@
-# 🚖 Uber Ride Analytics Dashboard – Power BI
+# 🚖 UberXplore-End-to-End-Ride-Analystics – Power BI
 
 An interactive Power BI dashboard that analyzes Uber ride data across multiple vehicle types (Auto, Bike, Go Mini, Go Sedan, Premier Sedan, Uber XL) to track **bookings, revenue, trip distances, payment methods, peak travel times, and customer trends.**
 
